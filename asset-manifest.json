@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fjpiedade/MyTodo/static/css/main.0856897f.chunk.css",
+    "main.js": "/fjpiedade/MyTodo/static/js/main.38ea55db.chunk.js",
+    "main.js.map": "/fjpiedade/MyTodo/static/js/main.38ea55db.chunk.js.map",
+    "runtime-main.js": "/fjpiedade/MyTodo/static/js/runtime-main.3f556078.js",
+    "runtime-main.js.map": "/fjpiedade/MyTodo/static/js/runtime-main.3f556078.js.map",
+    "static/js/2.a075aeed.chunk.js": "/fjpiedade/MyTodo/static/js/2.a075aeed.chunk.js",
+    "static/js/2.a075aeed.chunk.js.map": "/fjpiedade/MyTodo/static/js/2.a075aeed.chunk.js.map",
+    "index.html": "/fjpiedade/MyTodo/index.html",
+    "static/css/main.0856897f.chunk.css.map": "/fjpiedade/MyTodo/static/css/main.0856897f.chunk.css.map",
+    "static/js/2.a075aeed.chunk.js.LICENSE.txt": "/fjpiedade/MyTodo/static/js/2.a075aeed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f556078.js",
+    "static/js/2.a075aeed.chunk.js",
+    "static/css/main.0856897f.chunk.css",
+    "static/js/main.38ea55db.chunk.js"
+  ]
+}
