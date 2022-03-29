@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter as Router } from "react-router-dom"
+//import { BrowserRouter as Router } from "react-router-dom"
+import { HashRouter as Router } from "react-router-dom"
 //components file
 import TodoContainer from "./functionBased/components/TodoContainer"
 import "./functionBased/App.css"
@@ -10,12 +11,16 @@ import { nativeTouchData } from "react-dom/cjs/react-dom-test-utils.production.m
 
 //ReactDOM.render(element, document.getElementById("root"))
 //ReactDOM.render(<TodoContainer />, document.getElementById("root"))
-ReactDOM.render(
-    <React.StrictMode>
+/*
+<React.StrictMode>
         <Router>
             <TodoContainer />
         </Router>
     </React.StrictMode>,
+*/
+ReactDOM.render(
+    <Router>
+        <TodoContainer />
+    </Router>,
     document.getElementById("root")
 )
-//nada.especialH2020
